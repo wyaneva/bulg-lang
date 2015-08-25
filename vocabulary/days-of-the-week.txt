@@ -1,18 +1,18 @@
 Monday    - понеделник
-Tuesday   - вторник
-Wednesday - сряда
-Thursday  - четвъртък
-Friday    - петък
+Tuesday   - вторник (from втор|и,а,о,и - second)
+Wednesday - сряда (from среда - middle(n) or сред|ен,на,но,ни - middle(adj))
+Thursday  - четвъртък (from четвърт|и,а,о,и - fourth)
+Friday    - петък (from пет|и,а,о,и - fifth)
 Saturday  - събота
 Sunday    - неделя
 
 Note: In Bulgarian, days of the week are not capitalised as in English
 
 prepositions:
-- on Monday (в понеделник)
-- this Monday (този понеделник)
-- next Monday (следващия/другия понеделник)
-- last Monday (миналия понеделник)
+on Monday - в понеделник
+this Monday - този понеделник
+next Monday - следващия/другия понеделник
+last Monday - миналия понеделник
 
 следващ/а,о,и - next
 друг/а,о,и - other

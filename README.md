@@ -6,7 +6,7 @@ vocabulary
   - days of the week DONE
     - prepositions: "{on, this, next, last} Monday", etc DONE
   - months DONE
-    - prepositions: "{in, next, last} January", etc
+    - prepositions: "{in, next, last} January", etc DONE
   - colours
   - rooms of the house
   - body parts

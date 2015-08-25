@@ -1,12 +1,25 @@
-January   - Януари
-February  - Февруари
-March     - Март
-April     - Април
-May       - Май
-June      - Юни
-July      - Юли
-August    - Август
-September - Септември
-October   - Октомври
-November  - Ноември
-December  - Декември
+January   - януари
+February  - февруари
+March     - март
+April     - април
+May       - май
+June      - юни
+July      - юли
+August    - август
+September - септември
+October   - октомври
+November  - ноември
+December  - декември
+
+Note: In Bulgarian, months are not capitalised as in English.
+
+prepositions:
+in January - през януари
+this January - този януари
+next January - следващия/другия януари
+last January - миналия януари
+on the 1st of January - на първи януари
+
+следващ/а,о,и - next
+друг/а,о,и - other
+минал/а,о,и - past, gone by (from минавам/мина - to go by)
