@@ -1,0 +1,12 @@
+January   - Януари
+February  - Февруари
+March     - Март
+April     - Април
+May       - Май
+June      - Юни
+July      - Юли
+August    - Август
+September - Септември
+October   - Октомври
+November  - Ноември
+December  - Декември

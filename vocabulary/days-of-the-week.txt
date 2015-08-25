@@ -1,0 +1,7 @@
+Monday    - Понеделник
+Tuesday   - Вторник
+Wednesday - Сряда
+Thursday  - Четвъртък
+Friday    - Петък
+Saturday  - Събота
+Sunday    - Неделя
