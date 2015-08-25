@@ -8,7 +8,7 @@ vocabulary
   - months DONE
     - prepositions: "{in, next, last} January", etc DONE
   - colours DONE
-  - rooms of the house
+  - rooms of the house DONE
   - body parts
   - animals
   - clothes

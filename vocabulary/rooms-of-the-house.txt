@@ -1,0 +1,14 @@
+room         - стая
+attic        - таван
+basement     - мазе
+bathroom     - баня
+bedroom      - спалня
+dining room  - трапезария
+garage       - гараж
+guest room   - стая за гости
+hall         - коридор
+kitchen      - кухня
+living room  - хол
+lounge       - хол
+office/study - кабинет
+pantry       - килер
