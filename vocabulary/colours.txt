@@ -1,1 +1,12 @@
-test from android 2
+red    - червен/а,и
+black  - чер|ен,на,ни
+orange - оранжев/а,и
+yellow - жълт/а,и
+green  - зелен/а,и
+blue   - син/я,и
+gray   - сив/а,и
+violet - виолетов/а,и
+purple - лилав/а,и
+pink   - розов/а,и
+brown  - кафяв/а,и
+white  - бял/а,и

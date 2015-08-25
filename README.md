@@ -7,7 +7,7 @@ vocabulary
     - prepositions: "{on, this, next, last} Monday", etc DONE
   - months DONE
     - prepositions: "{in, next, last} January", etc DONE
-  - colours
+  - colours DONE
   - rooms of the house
   - body parts
   - animals
