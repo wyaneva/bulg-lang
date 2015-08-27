@@ -6,14 +6,20 @@ Friday    - петък (from пет|и,а,о,и - fifth)
 Saturday  - събота
 Sunday    - неделя
 
+Note: In Bulgarian, the days of the week have a gender, just like any noun. 
+понеделник, вторник, четвъртък, петък (ending in -к) - masculine
+сряда, събота, неделя (ending in -а/я) - feminine
+This is important, when we want to use prepositions with them, e.g. този понеделник, тази сряда
+
 Note: In Bulgarian, days of the week are not capitalised as in English
 
 prepositions:
 on Monday - в понеделник
-this Monday - този понеделник
-next Monday - следващия/другия понеделник
+this Monday - този понеделник, тази сряда
+next Monday - следващия/другия/идния понеделник, следващата/другата/идната сряда
 last Monday - миналия понеделник
 
 следващ/а,о,и - next
 друг/а,о,и - other
+ид|ен,на,но,ни - coming (from идвам/ида - to come)
 минал/а,о,и - past, gone by (from минавам/мина - to go by)

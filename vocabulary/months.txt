@@ -11,15 +11,17 @@ October   - октомври
 November  - ноември
 December  - декември
 
-Note: In Bulgarian, months are not capitalised as in English.
+Note: In Blugarian, months have a gender, just like all nouns. All months are masculine.
+Note2: In Bulgarian, months are not capitalised as in English.
 
 prepositions:
 in January - през януари
 this January - този януари
-next January - следващия/другия януари
+next January - следващия/другия/идния януари
 last January - миналия януари
 on the 1st of January - на първи януари
 
 следващ/а,о,и - next
 друг/а,о,и - other
+ид|ен,на,но,ни - coming (from идвам/ида - to come)
 минал/а,о,и - past, gone by (from минавам/мина - to go by)
