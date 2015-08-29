@@ -9,7 +9,7 @@ vocabulary
     - prepositions: "{in, next, last} January", etc DONE
   - colours DONE
   - rooms of the house DONE
-  - body parts
+  - body parts DONE
   - animals
   - clothes
 

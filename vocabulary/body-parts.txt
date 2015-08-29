@@ -1,0 +1,51 @@
+head            - глава
+  neck          - врат
+face            - лице
+  nose          - нос
+  nostril       - ноздра
+  mouth         - уста
+  lip           - устна
+  tongue        - език
+  ear           - ухо
+  cheek         - буза
+  chin          - брадичка
+  eye           - око
+  eyebrow       - вежда
+  eyelid        - клепач
+  eyelash       - мигла
+limb            - крайник
+arm             - ръка
+hand            - китка\ръка
+  finger        - пръст
+  palm          - длан
+  wrist         - китка
+  elbow         - лакът
+  shoulder      - рамо
+fingers         
+  thumb         - палец
+  index finger  - показалец (from показвам\покажа - to show, to point out)
+  middle finger - среден пръст
+  ring finger   - безименен пръст
+  little finger - кутре
+  nail          - нокът
+  knuckle       - кокалче
+leg             - крак
+foot            - стъпало
+  knee          - коляно
+  calf          - прасец
+  ankle         - глезен
+  heel          - пета
+  toe           - пръст (на крака)
+organ           - орган
+  heart         - сърце
+  lung          - бял дроб
+  vein          - вена
+  brain         - мозък
+  throat        - гърло
+  liver         - черен дроб
+  stomach       - стомах
+  kidney        - бъбрек
+  skeleton      - скелет
+  rib           - ребро
+  bone          - кокал
+  skin          - кожа
