@@ -12,6 +12,8 @@ vocabulary
   - body parts DONE
   - animals
   - clothes
+  - fruit and vegetables 
+  - verbs and adjectives to do with cooking
 
 grammar
   - prepositional sentence structures
